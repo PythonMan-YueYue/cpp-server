@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="io-block-client"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\io-block-server\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\;CMake Files\io-block-client\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="io-block-client">
+				<Option output="/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/io-block-client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client"/>
+					<Add directory="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-client"/>
+					<Add directory="/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/io-block-client_autogen/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 io-block-client"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="io-block-client/fast">
+				<Option output="/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/io-block-client" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client"/>
+					<Add directory="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-client"/>
+					<Add directory="/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/io-block-client_autogen/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 io-block-client/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="io-block-client_autogen">
+				<Option working_dir="/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 io-block-client_autogen"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/io-block-client_autogen/mocs_compilation.cpp">
+			<Option target="io-block-client"/>
+		</Unit>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-client/src/DTcpClient.cpp">
+			<Option target="io-block-client"/>
+		</Unit>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-client/src/DTcpClient.h">
+			<Option target="io-block-client"/>
+		</Unit>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-client/src/main.cpp">
+			<Option target="io-block-client"/>
+		</Unit>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-server/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\io-block-server\"/>
+		</Unit>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/../../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/../../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/../../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/../../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/../../../../../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-client/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\io-block-client\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liujun/Work/Study/CPP/project/cpp-server/DSock/src/DSockAPI.cpp
+DSockAPI.h
+/home/liujun/Work/Study/CPP/project/cpp-server/DSock/src/DSockAPI.h
+
+/home/liujun/Work/Study/CPP/project/cpp-server/DSock/src/DSockAPI.h
+arpa/inet.h
+-
+unistd.h
+-
+string.h
+-
+string
+-
+sys/socket.h
+-
+netdb.h
+-
+

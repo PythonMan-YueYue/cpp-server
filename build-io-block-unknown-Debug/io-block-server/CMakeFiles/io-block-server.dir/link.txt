@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/io-block-server.dir/src/DTcpServer.cpp.o CMakeFiles/io-block-server.dir/src/main.cpp.o CMakeFiles/io-block-server.dir/io-block-server_autogen/mocs_compilation.cpp.o  -o io-block-server /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.11.3 

@@ -1,0 +1,35 @@
+# Meta
+set(AM_MULTI_CONFIG "FALSE")
+set(AM_PARALLEL "4")
+set(AM_VERBOSITY "")
+# Directories
+set(AM_CMAKE_SOURCE_DIR "/home/liujun/Work/Study/CPP/project/cpp-server/io-block")
+set(AM_CMAKE_BINARY_DIR "/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug")
+set(AM_CMAKE_CURRENT_SOURCE_DIR "/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-client")
+set(AM_CMAKE_CURRENT_BINARY_DIR "/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client")
+set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
+set(AM_BUILD_DIR "/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/io-block-client_autogen")
+set(AM_INCLUDE_DIR "/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/io-block-client_autogen/include")
+# Files
+set(AM_SOURCES "/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-client/src/DTcpClient.cpp;/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-client/src/main.cpp")
+set(AM_HEADERS "/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-client/src/DTcpClient.h")
+set(AM_SETTINGS_FILE "/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client/CMakeFiles/io-block-client_autogen.dir/AutogenOldSettings.txt")
+# Qt
+set(AM_QT_VERSION_MAJOR 5)
+set(AM_QT_MOC_EXECUTABLE "/usr/lib/qt5/bin/moc")
+set(AM_QT_UIC_EXECUTABLE "")
+# MOC settings
+set(AM_MOC_SKIP "")
+set(AM_MOC_DEFINITIONS "QT_CORE_LIB")
+set(AM_MOC_INCLUDES "/home/liujun/Work/Study/CPP/project/cpp-server/build-io-block-unknown-Debug/io-block-client;/home/liujun/Work/Study/CPP/project/cpp-server/io-block/io-block-client;/usr/include/x86_64-linux-gnu/qt5;/usr/include/x86_64-linux-gnu/qt5/QtCore;/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++")
+set(AM_MOC_OPTIONS "")
+set(AM_MOC_RELAXED_MODE "")
+set(AM_MOC_MACRO_NAMES "Q_OBJECT;Q_GADGET;Q_NAMESPACE")
+set(AM_MOC_DEPEND_FILTERS "")
+set(AM_MOC_PREDEFS_CMD "/usr/bin/g++;-dM;-E;-c;/usr/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp")
+# UIC settings
+set(AM_UIC_SKIP "")
+set(AM_UIC_TARGET_OPTIONS "")
+set(AM_UIC_OPTIONS_FILES "")
+set(AM_UIC_OPTIONS_OPTIONS "")
+set(AM_UIC_SEARCH_PATHS "")

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/dsock.dir/src/DSockAPI.cpp.o CMakeFiles/dsock.dir/src/DTcpServer.cpp.o CMakeFiles/dsock.dir/src/main.cpp.o CMakeFiles/dsock.dir/dsock_autogen/mocs_compilation.cpp.o  -o dsock /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.11.3 
